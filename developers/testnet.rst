@@ -19,6 +19,7 @@ are carried out on the mainnet. There are a few other key differences:
 - Bootstrapping uses different DNS seeds: test.dnsseed.masternode.io, 
   testnet-seed.darkcoin.qa, testnet-seed.dashpay.io
 - Launching Dash Core in testnet mode shows an orange splash screen
+- The masternode.conf file must go in the testnet3 in the data directory
 
 To start Dash Core in testnet mode, find your dash.conf file and enter
 the following line::
